@@ -32,9 +32,13 @@ I can't choose just *one* topic I'm excited about. I have a few:
 
 Tools I've used
 * CSS and HTML (from the way back days, Myspace, anyone?!)
-* Oxygen, Visual Studio (very limited experience)
-* Google Docs
+* Oxygen, Visual Studio (I learned for the first time and very limited experience from my previous class)
+* Google Docs (not sure this counts?)
 
 ## Tools and techs I'll use
 
-text here
+**I think I'll use tools that:**
+
+* Are Google related in any way.
+* Codings tools for HTML, CSS, XML
+* Relate to content management (providing outputs)
