@@ -2,16 +2,20 @@
 
 My first week of **WRIT 5662** consisted of getting my bearings, organizing my course organization framework,
 and learning about Github and Markdown. After watching the videos and reading the Week 1 pages, I dug a
-little deeper into the Markdown resources. I learned and practiced with more markdown concepts like
-lists, admonitions, blockquote, code blocks, and more.
+little deeper into the Markdown resources. I learned and practiced markdown concepts like lists, admonitions,
+blockquote, code blocks, and more.
 
 ## My career area
 
 My role for the past 11 years has been a **Google for Education Technical Trainer** where I work with K-12
-technology departments and I help them with their Google and Chrome environments.
+technology departments and I help them with their Google and Chrome environments. In this role, I deal a lot
+with creating, curating, and updating content for webinars, in person trainings, and other digital material.
 
-After taking a technical communications course during my Learning Technologies Masters Program, I became very
+After taking a Technical Communication course during my Learning Technologies Masters Program, I became very
 interested in the field. I believe it could help my current role as well as be an avenue to a new career path.
+What got me hooked was one explanation about technical writing:
+
+> technical writers work as user advocates
 
 ## One topic I'm excited about
 
