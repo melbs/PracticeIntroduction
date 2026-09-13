@@ -30,6 +30,11 @@ I can't choose just *one* topic I'm excited about. I have a few:
 > introduced me to the world of Technical Communication. I want to understand the concepts, tool, and applications
 > in more depth this time around.
 
+Tools I've used
+* CSS and HTML (from the way back days, Myspace, anyone?!)
+* Oxygen, Visual Studio (very limited experience)
+* Google Docs
+
 ## Tools and techs I'll use
 
 text here
