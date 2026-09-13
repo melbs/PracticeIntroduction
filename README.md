@@ -1,26 +1,22 @@
 # Melissa Benson (Technical Communication Certificate, 2026)
 
-My first week of **WRIT 5662** consisted of getting my bearings, organizing my course organization framework,
-and learning about Github and Markdown. After watching the videos and reading the Week 1 pages, I dug a
-little deeper into the Markdown resources. I learned and practiced markdown concepts like lists, admonitions,
-blockquote, code blocks, and more.
+My first week of **WRIT 5662** consisted of getting my bearings, organizing my course work framework,
+and learning about Github and Markdown. After watching the videos and reading the Week 1 pages, I dug deeper
+into the Markdown resources. I learned and practiced Markdown concepts such as: lists, admonitions,
+blockquotes, code blocks, and more.
 
 ## My career area
 
 My role for the past 11 years has been a **Google for Education Technical Trainer** where I work with K-12
-technology departments and I help them with their Google and Chrome environments. In this role, I deal a lot
-with creating, curating, and updating content for webinars, in person trainings, and other digital material.
+technology departments. I help them with their Google and Chrome environments. In this role, along with being
+and SME, I work a lot with creating, curating, and updating content for webinars, in person trainings, and other digital material.
 
 After taking a Technical Communication course during my Learning Technologies Masters Program, I became very
-interested in the field. I believe it could help my current role as well as be an avenue to a new career path.
+interested in the field. I believe it could help my current role, as well as be a *possible new career path*.
 
-**One deescription of technical writing that has stuck with me is:**
+**One description of technical writing that has stuck with me is:**
 
-> Technical writers work as user advocates
-
-In my current career I help people by training them and as I get older and more experienced I'm looking at
-which types of roles could fit me. I will most likely need to travel less and not be so much in front of people
-so being more in the back end, working with different stakeholders could be a good fit.
+> Technical writers work as ***user advocates***.
 
 ## One topic I'm excited about
 
@@ -36,11 +32,11 @@ I can't choose just *one* topic I'm excited about. I have a few:
 ## A tool or tech I already know
 
 > [!NOTE]
-> I took WRIT 5662 a few years ago as a part of my Learning Technologies Masters Program and I loved it; it
-> introduced me to the world of Technical Communication. I want to understand the concepts, tool, and applications
-> in more depth this time around.
+> I took WRIT 5662 a few years ago as a part of my Learning Technologies Masters Program.
+> It introduced me to the world of Technical Communication. I want to understand the concepts, tools,
+> and applications in more depth this time around.
 
-Tools I've used
+**Tools I've used**
 * CSS and HTML (from the way back days, Myspace, anyone?!)
 * Oxygen, Visual Studio (I learned for the first time and I have limited experience from my previous class)
 * Google Docs (not sure this counts?)
