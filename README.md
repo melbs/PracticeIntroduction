@@ -1,8 +1,9 @@
 # Melissa Benson (Technical Communication Certificate, 2026)
 
-My first week of WRIT 5662 consisted of getting my bearings, organizing my class notes framework, and learning
-about Github and Markdown. I have some basic understanding of both. After watching the videos, I dug a little
-deeper into the Markdown resources and learned about lists, admonitions, and use blockquote and code blocks.
+My first week of **WRIT 5662** consisted of getting my bearings, organizing my course organization framework,
+and learning about Github and Markdown. After watching the videos and reading the Week 1 pages, I dug a
+little deeper into the Markdown resources. I learned and practiced with more markdown concepts like
+lists, admonitions, blockquote, code blocks, and more.
 
 ## My career area
 
