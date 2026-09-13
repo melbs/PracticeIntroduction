@@ -53,7 +53,7 @@ I can't choose just *one* topic I'm excited about. I have a few:
 
 * Google-related in any way
 * Coding tools for HTML, CSS, XML
-* For revision history (like b)
+* For revision history (like GitHub)
 * Related to content management (providing outputs)
   * For remixing existing content to rpovide different kinds of output from a single source.
 
