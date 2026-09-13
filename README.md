@@ -14,7 +14,7 @@ with creating, curating, and updating content for webinars, in person trainings,
 After taking a Technical Communication course during my Learning Technologies Masters Program, I became very
 interested in the field. I believe it could help my current role as well as be an avenue to a new career path.
 
-One concept of technical writing that has stuck with me is:
+**One concept of technical writing that has stuck with me is:**
 
 > technical writers work as user advocates
 
