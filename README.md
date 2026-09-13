@@ -1,15 +1,15 @@
 # Melissa Benson (Technical Communication Certificate, 2026)
 
 My first week of **WRIT 5662** consisted of getting my bearings, organizing my course work framework,
-and learning about Github and Markdown. After watching the videos and reading the Week 1 pages, I dug deeper
-into the Markdown resources. In GitHub,  learned and practiced Markdown concepts such as: lists, admonitions,
+and learning about GitHub and Markdown. After watching the videos and reading the Week 1 pages, I dug deeper
+into the Markdown resources. In GitHub, I learned and practiced Markdown concepts such as: lists, admonitions,
 blockquotes, code blocks, and more.
 
 ## My career area
 
 My role for the past 11 years has been a **Google for Education Technical Trainer** where I work with K-12
 technology departments. I help them with their Google and Chrome environments. In this role, along with being
-an SME, I work a lot with creating, curating, and updating content for webinars, in person trainings,
+an SME, I work a lot with creating, curating, and updating content for webinars, in-person trainings,
 and other digital materials.
 
 After taking a Technical Communication course during my Learning Technologies Masters Program, I became very
@@ -28,13 +28,13 @@ I can't choose just *one* topic I'm excited about. I have a few:
 * **GenAI:** While we will only be using "AI" during the applicable units, I am tremendously interested in
   exploring how GenAI and Technical Writing can work together. After all, GenAI is all about *unstructured* data and turning
   it into *structured* data and I have realized that Technical Writing is so much about the (clean) data.
-* **DITA:** Clearly DITA is an important topic in technical writing. I want to understand it better and be able to use
+* **DITA:** Clearly, DITA is an important topic in technical writing. I want to understand it better and be able to use
   it in applicable situations.
 
 ## Tools and technologies I already know
 
 > [!NOTE]
-> I took WRIT 5662 a few years ago as a part of my Learning Technologies Masters Program and was introduced
+> I took WRIT 5662 a few years ago as a part of my Learning Technologies Master's Program and was introduced
 > to some of these tools.
 > 
 > The digital writing tools I've used in previous classes are jumbled in my head and I don't have a 100%
@@ -42,7 +42,7 @@ I can't choose just *one* topic I'm excited about. I have a few:
 > a better handle on them.
 
 * **CSS and HTML** (from the way back days, Myspace, Geocities anyone?!)
-* **Oxygen, Visual Studio** (I learned for the first time and I have limited experience from my previous class)
+* **Oxygen, Visual Studio** (I was introduced to these tools for the first time during my previous class)
 * **Google Docs** (Advanced experience; not sure this counts?)
 * **Zotero** (Very limited experience)
 * **RStudio** (Very limited experience)
@@ -51,17 +51,17 @@ I can't choose just *one* topic I'm excited about. I have a few:
 
 **I think I'll use tools that are:**
 
-* Google related in any way
+* Google-related in any way
 * Coding tools for HTML, CSS, XML
-* For revision history (like GitHub)
+* For revision history (like b)
 * Related to content management (providing outputs)
-  * How to remix content you already have and provide different kind of output from a single source
+  * For remixing existing content to rpovide different kinds of output from a single source.
 
 ### Additional Information
 
 Using digital technologies for technical communication work is what is most exciting to me.
 I used to do basic HTML/CSS/PHP and it's been years since I've even modified any kind of code.
-When I dipped my toes back in the water using Visual Studio, RStudio, GitHub, etc. it made me excited and motivated to be learning again.
+When I dipped my toes back in the water using Visual Studio, RStudio, GitHub, etc., it made me excited and motivated to be learning again.
 
 And on top of that, learning the new tools that specifically relate to the technical communication workflow and process is
 even more exciting as I see the real world application and need for it in my current career. 
