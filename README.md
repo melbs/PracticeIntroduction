@@ -14,7 +14,14 @@ interested in the field. I believe it could help my current role as well as be a
 
 ## One topic I'm excited about
 
-text here
+I can't choose just *one* topic I'm excited about. I have a few:
+
+* **Markdown:** I want to have a good, solid foundational knowledge and be able to use Markdown more easily.
+* **Visual Studio Code & Oxygen:** I want to get a much better grasp on these tools and use them in real world scenarios.
+* **GenAI:** While we will only be using "AI" during the applicable units, I am tremendously interested (and exited) to
+  explore how GenAI and Technical Writing work together. After all, GenAI is all about *unstructured* data and turning
+  it into *structured* data and I have realized that Technical Writing is so much about data.
+* **DITA:** Perhaps the biggest topic I'm excited about is DITA and truly understanding it.
 
 ## A tool or tech I already know
 
