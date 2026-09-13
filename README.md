@@ -25,7 +25,10 @@ I can't choose just *one* topic I'm excited about. I have a few:
 
 ## A tool or tech I already know
 
-text here
+> [!NOTE]
+> I took WRIT 5662 a few years ago as a part of my Learning Technologies Masters Program and I loved it; it
+> introduced me to the world of Technical Communication. I want to understand the concepts, tool, and applications
+> in more depth this time around.
 
 ## Tools and techs I'll use
 
