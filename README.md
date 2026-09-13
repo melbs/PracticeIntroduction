@@ -59,9 +59,9 @@ I can't choose just *one* topic I'm excited about. I have a few:
 * Relate to content management (providing outputs)
   * How to remix content you already have and provide different kind of output from a single source
 
-```
 ### Additional Information RE: tools and technologies I'll use
 
+```
 Using digital technologies for technical communication work is what is most exciting to me. I used to do basic HTML/CSS/PHP
 and it's been years since I've even modified any kind of code. When I dipped my toes back in the water using Visual Studio, RStudio,
 GitHub, etc. it made me excited and motivated to be learning again.
