@@ -52,10 +52,10 @@ I can't choose just *one* topic I'm excited about. I have a few:
 **I think I'll use tools that are:**
 
 * Google-related in any way
-* Coding tools for HTML, CSS, XML
-* For revision history (like GitHub)
-* Related to content management (providing outputs)
-  * For remixing existing content to rpovide different kinds of output from a single source.
+* Coding tools for HTML, CSS, XML (Oxygen, Visual Studio)
+* For revision history (GitHub)
+* Related to content management for providing outputs (RStudio, Visual Studio)
+  * For remixing existing content to provide different kinds of output from a single source.
 
 ### Additional Information
 
