@@ -31,13 +31,8 @@ I can't choose just *one* topic I'm excited about. I have a few:
 * **DITA:** Clearly DITA is an important topic in technical writing. I want to understand it better and be able to use
   it in applicable situations.
 
-## A tool or technology I already know
+## Tools and technologies I already know
 
-> [!NOTE]
-> I took WRIT 5662 a few years ago as a part of my Learning Technologies Masters Program and was introduced
-> to some of these tools.
-
-***Tools and technologies I've used***
 * CSS and HTML (from the way back days, Myspace, Geocities anyone?!)
 * Oxygen, Visual Studio (I learned for the first time and I have limited experience from my previous class)
 * Google Docs (Advanced experience; not sure this counts?)
@@ -45,6 +40,9 @@ I can't choose just *one* topic I'm excited about. I have a few:
 * RStudio (Very limited experience)
 
 > [!NOTE]
+> I took WRIT 5662 a few years ago as a part of my Learning Technologies Masters Program and was introduced
+> to some of these tools.
+> 
 > The digital writing tools I've used in previous classes are jumbled in my head and I don't have a 100%
 > clear understanding about each. One of the many reasons I wanted to take this course again was to get
 > a better handle on them.
