@@ -14,9 +14,13 @@ with creating, curating, and updating content for webinars, in person trainings,
 After taking a Technical Communication course during my Learning Technologies Masters Program, I became very
 interested in the field. I believe it could help my current role as well as be an avenue to a new career path.
 
-**One concept of technical writing that has stuck with me is:**
+**One deescription of technical writing that has stuck with me is:**
 
-> technical writers work as user advocates
+> Technical writers work as user advocates
+
+In my current career I help people by training them and as I get older and more experienced I'm looking at
+which types of roles could fit me. I will most likely need to travel less and not be so much in front of people
+so being more in the back end, working with different stakeholders could be a good fit.
 
 ## One topic I'm excited about
 
@@ -38,7 +42,7 @@ I can't choose just *one* topic I'm excited about. I have a few:
 
 Tools I've used
 * CSS and HTML (from the way back days, Myspace, anyone?!)
-* Oxygen, Visual Studio (I learned for the first time and very limited experience from my previous class)
+* Oxygen, Visual Studio (I learned for the first time and I have limited experience from my previous class)
 * Google Docs (not sure this counts?)
 
 ## Tools and techs I'll use
@@ -48,3 +52,12 @@ Tools I've used
 * Are Google related in any way.
 * Codings tools for HTML, CSS, XML
 * Relate to content management (providing outputs)
+
+### Additional Information
+
+Using digital technologies for technical communication work is what is most exciting to me. I used to do basic HTML/CSS/PHP
+and it's been years since I've even modified any kind of code. When I dipped my toes back in the water using Visual Studio, RStudio,
+GitHub, etc. I really liked it.
+
+And on top of that, learning the new tools that specifically relate to the technical communication workflow and process is
+even more exciting as I see the real world application and need for it in my current role.
