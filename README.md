@@ -59,6 +59,7 @@ I can't choose just *one* topic I'm excited about. I have a few:
 * Relate to content management (providing outputs)
   * How to remix content you already have and provide different kind of output from a single source
 
+```
 ### Additional Information RE: tools and technologies I'll use
 
 Using digital technologies for technical communication work is what is most exciting to me. I used to do basic HTML/CSS/PHP
@@ -67,9 +68,4 @@ GitHub, etc. it made me excited and motivated to be learning again.
 
 And on top of that, learning the new tools that specifically relate to the technical communication workflow and process is
 even more exciting as I see the real world application and need for it in my current role.
-
-**I think when it comes down to it I will need:**
-
-* A tool for writing (Markdown)
-* Revision (GitHub)
-* A tool for building outputs
+```
