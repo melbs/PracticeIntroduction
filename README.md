@@ -27,33 +27,42 @@ I can't choose just *one* topic I'm excited about. I have a few:
 * **GenAI:** While we will only be using "AI" during the applicable units, I am tremendously interested in
   exploring how GenAI and Technical Writing work together. After all, GenAI is all about *unstructured* data and turning
   it into *structured* data and I have realized that Technical Writing is so much about the (clean) data.
-* **DITA:** Perhaps the biggest topic I'm excited about is DITA and truly understanding it.
+* **DITA:** Clearly DITA is an important topic in technical writing and I have limited experience. I want
+  to understand it better and be able to use it in applicabe sitautions.
 
-## A tool or tech I already know
+## A tool or technology I already know
 
 > [!NOTE]
-> I took WRIT 5662 a few years ago as a part of my Learning Technologies Masters Program.
-> It introduced me to the world of Technical Communication. I want to understand the concepts, tools,
-> and applications in more depth this time around.
+> I took WRIT 5662 a few years ago as a part of my Learning Technologies Masters Program and was introduced
+> to some of these tools. I want to better understand them and be able to work with them on real world use cases.
 
-**Tools I've used**
-* CSS and HTML (from the way back days, Myspace, anyone?!)
+***Tools and technologies I've used***
+* CSS and HTML (from the way back days, Myspace, Geocities anyone?!)
 * Oxygen, Visual Studio (I learned for the first time and I have limited experience from my previous class)
 * Google Docs (not sure this counts?)
+* Zotero (I think I've used but I can't even really remember what it's for!)
+* RStudio (again, very limited usage.)
 
-## Tools and techs I'll use
+> [!NOTE]
+> The digital writing tools I've used in previous classes are jumbled in my head and I don't have a 100%
+> clear understanding about each. One of the many reasons I wanted to take this course again was to get
+> a better handle on them.
+
+## Tools and technologies I'll use
 
 **I think I'll use tools that:**
 
 * Are Google related in any way.
 * Codings tools for HTML, CSS, XML
+* GitHub
 * Relate to content management (providing outputs)
+  * How to remix content you already have and provide different kind of output from a single source
 
 ### Additional Information
 
 Using digital technologies for technical communication work is what is most exciting to me. I used to do basic HTML/CSS/PHP
 and it's been years since I've even modified any kind of code. When I dipped my toes back in the water using Visual Studio, RStudio,
-GitHub, etc. I really liked it.
+GitHub, etc. it made me excited and motivated to be learning again.
 
 And on top of that, learning the new tools that specifically relate to the technical communication workflow and process is
 even more exciting as I see the real world application and need for it in my current role.
