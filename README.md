@@ -44,7 +44,7 @@ I can't choose just *one* topic I'm excited about. I have a few:
 * **CSS and HTML** (from the way back days, Myspace, Geocities anyone?!)
 * **Oxygen, Visual Studio** (I learned for the first time and I have limited experience from my previous class)
 * **Google Docs** (Advanced experience; not sure this counts?)
-* **Zotero** (Very limited expereience)
+* **Zotero** (Very limited experience)
 * **RStudio** (Very limited experience)
 
 ## Tools and technologies I'll use
@@ -64,5 +64,6 @@ I used to do basic HTML/CSS/PHP and it's been years since I've even modified any
 When I dipped my toes back in the water using Visual Studio, RStudio, GitHub, etc. it made me excited and motivated to be learning again.
 
 And on top of that, learning the new tools that specifically relate to the technical communication workflow and process is
-even more exciting as I see the real world application and need for it in my current role.
+even more exciting as I see the real world application and need for it in my current career. 
 
+My company uses Google Docs, Confluence, Zendesk, and a few other technical writing tools.
